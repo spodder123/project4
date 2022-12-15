@@ -1,3 +1,12 @@
+@media(min-width: 150px){
+#cover img{
+	width: 12.2%;
+	position: static;
+	
+}
+}
+
+
 body{
 	background-color: indianred;
 	
@@ -8,18 +17,11 @@ header{
 }
 
 
-#cover img{
-	width: 12.2%;
-	position: static;
-	
-}
-
 #introduction{
 	text-align: center;
 	font-size: 40px;
 }
 main{
-	
 	background-color: darkviolet;
 	border: 1px solid black;
 }
